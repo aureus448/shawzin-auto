@@ -14,7 +14,7 @@ pytesseract = "^0.3.8"
 pre-commit = "^2.13.0"
 pydeps = "^1.9.13"
 pytest = "^6.2.4"
-flake8 = "^3.9.2"
+flake8 = "^4.0.1"
 black = "^21.5b2"
 
 [build-system]
