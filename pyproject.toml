@@ -11,7 +11,7 @@ pytesseract = "^0.3.8"
 
 
 [tool.poetry.dev-dependencies]
-pre-commit = "^2.13.0"
+pre-commit = "^2.19.0"
 pydeps = "^1.9.13"
 pytest = "^6.2.4"
 flake8 = "^3.9.2"
